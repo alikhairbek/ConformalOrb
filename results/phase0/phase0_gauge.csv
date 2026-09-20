@@ -1,0 +1,56 @@
+molecule,operation,k,s_B,s_naive_HOMO,note
+water,identity,4,2.7877519926234643e-08,1.1102230246251565e-15,
+water,sign_flip_all,4,2.7877519926234643e-08,1.1102230246251565e-15,
+water,random_sign_pattern,4,2.7877519926234643e-08,1.1102230246251565e-15,
+water,random_rotation_in_subspace,4,2.7877519926234643e-08,0.9114923937383339,
+water,permutation,4,2.9802322387695312e-08,1.0,
+methanol,identity,4,5.960464477539063e-08,-3.552713678800501e-15,
+methanol,sign_flip_all,4,5.960464477539063e-08,-3.552713678800501e-15,
+methanol,random_sign_pattern,4,5.960464477539063e-08,-3.552713678800501e-15,
+methanol,random_rotation_in_subspace,4,5.7711949142924205e-08,0.45919590560203105,
+methanol,permutation,4,6.05288029062447e-08,-3.552713678800501e-15,
+ethylene,identity,4,2.9802322387695312e-08,-4.440892098500626e-16,
+ethylene,sign_flip_all,4,2.9802322387695312e-08,-4.440892098500626e-16,
+ethylene,random_sign_pattern,4,2.9802322387695312e-08,-4.440892098500626e-16,
+ethylene,random_rotation_in_subspace,4,2.7877519926234643e-08,0.922064421327113,
+ethylene,permutation,4,2.1073424255447017e-08,1.0,
+formamide,identity,4,1.4901161193847656e-08,1.1102230246251565e-15,
+formamide,sign_flip_all,4,1.4901161193847656e-08,1.1102230246251565e-15,
+formamide,random_sign_pattern,4,1.4901161193847656e-08,1.1102230246251565e-15,
+formamide,random_rotation_in_subspace,4,2.1073424255447017e-08,0.6622940771172666,
+formamide,permutation,4,1.4901161193847656e-08,1.0,
+acetonitrile,identity,4,1.4901161193847656e-08,-2.6645352591003757e-15,
+acetonitrile,sign_flip_all,4,1.4901161193847656e-08,-2.6645352591003757e-15,
+acetonitrile,random_sign_pattern,4,1.4901161193847656e-08,-2.6645352591003757e-15,
+acetonitrile,random_rotation_in_subspace,4,0.0,0.9873995033109642,
+acetonitrile,permutation,4,1.4901161193847656e-08,1.0,
+acetonitrile,rotate_degenerate_HOMO_pair_15deg,4,1.4901161193847656e-08,0.06698729810777782,pair split = 0.0000 eV
+acetonitrile,rotate_degenerate_HOMO_pair_30deg,4,1.4901161193847656e-08,0.24999999999999778,pair split = 0.0000 eV
+acetonitrile,rotate_degenerate_HOMO_pair_45deg,4,1.0536712127723509e-08,0.49999999999999856,pair split = 0.0000 eV
+acetonitrile,rotate_degenerate_HOMO_pair_60deg,4,1.0536712127723509e-08,0.749999999999999,pair split = 0.0000 eV
+acetonitrile,rotate_degenerate_HOMO_pair_90deg,4,2.1073424255447017e-08,1.0,pair split = 0.0000 eV
+cyclopropane,identity,4,3.332000937312528e-08,3.552713678800501e-15,
+cyclopropane,sign_flip_all,4,3.332000937312528e-08,3.552713678800501e-15,
+cyclopropane,random_sign_pattern,4,3.332000937312528e-08,3.552713678800501e-15,
+cyclopropane,random_rotation_in_subspace,4,2.5809568279517847e-08,0.749072763086236,
+cyclopropane,permutation,4,2.9802322387695312e-08,1.0,
+cyclopropane,rotate_degenerate_HOMO_pair_15deg,4,2.9802322387695312e-08,0.06698729810778381,pair split = 0.0004 eV
+cyclopropane,rotate_degenerate_HOMO_pair_30deg,4,2.9802322387695312e-08,0.25000000000000244,pair split = 0.0004 eV
+cyclopropane,rotate_degenerate_HOMO_pair_45deg,4,2.5809568279517847e-08,0.5000000000000017,pair split = 0.0004 eV
+cyclopropane,rotate_degenerate_HOMO_pair_60deg,4,2.5809568279517847e-08,0.7500000000000007,pair split = 0.0004 eV
+cyclopropane,rotate_degenerate_HOMO_pair_90deg,4,2.9802322387695312e-08,1.0,pair split = 0.0004 eV
+pyridine,identity,4,3.942476676500724e-08,3.3306690738754696e-15,
+pyridine,sign_flip_all,4,3.942476676500724e-08,3.3306690738754696e-15,
+pyridine,random_sign_pattern,4,3.942476676500724e-08,3.3306690738754696e-15,
+pyridine,random_rotation_in_subspace,4,3.332000937312528e-08,0.9616491481501365,
+pyridine,permutation,4,3.942476676500724e-08,3.3306690738754696e-15,
+benzene,identity,4,3.942476676500724e-08,4.440892098500626e-16,
+benzene,sign_flip_all,4,3.942476676500724e-08,4.440892098500626e-16,
+benzene,random_sign_pattern,4,3.942476676500724e-08,4.440892098500626e-16,
+benzene,random_rotation_in_subspace,4,3.650024149988857e-08,0.5738964601403911,
+benzene,permutation,4,3.942476676500724e-08,1.0,
+benzene,rotate_degenerate_HOMO_pair_15deg,4,4.0808510594454864e-08,0.06698729810778126,pair split = 0.0003 eV
+benzene,rotate_degenerate_HOMO_pair_30deg,4,4.0808510594454864e-08,0.2500000000000001,pair split = 0.0003 eV
+benzene,rotate_degenerate_HOMO_pair_45deg,4,3.650024149988857e-08,0.4999999999999999,pair split = 0.0003 eV
+benzene,rotate_degenerate_HOMO_pair_60deg,4,3.332000937312528e-08,0.7499999999999998,pair split = 0.0003 eV
+benzene,rotate_degenerate_HOMO_pair_90deg,4,3.494632065164618e-08,1.0,pair split = 0.0003 eV
