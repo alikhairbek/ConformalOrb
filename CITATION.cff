@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or the result tables, please cite the repository (a preprint is in preparation)."
+title: "ConformalOrb: certified frontier orbitals from machine-learned Kohn–Sham Hamiltonians"
+type: software
+authors:
+  - family-names: Khairbek
+    given-names: Ali A.
+    orcid: "https://orcid.org/0000-0002-0477-5896"
+    affiliation: "Department of Chemistry, University Centre for Research and Development, Chandigarh University, Gharuan, Mohali, Punjab, India"
+year: 2026
+repository-code: "https://github.com/alikhairbek/ConformalOrb"
+license: MIT
+keywords:
+  - machine-learned Hamiltonians
+  - Kohn–Sham density functional theory
+  - conformal prediction
+  - false-discovery rate
+  - frontier molecular orbitals
+  - uncertainty quantification
